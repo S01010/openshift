@@ -1,1 +1,0 @@
-openshift Exercise 1
