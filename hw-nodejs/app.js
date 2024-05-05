@@ -2,7 +2,7 @@ var express = require('express');
 app = express();
 
 app.get('/', function (req, res) {
-  res.send('Hello World from Openshift!!!\n');
+  res.send('Hello World Github webhook test from Openshift!!!\n');
 });
 
 app.listen(8080, function () {
